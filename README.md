@@ -1,8 +1,7 @@
-# React + Vite
+## Live web link: 
+https://assignment-12-f43f7.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Website Feature
+- This is a E-commerse website. You can signIn this web by gmail, password and you can dereact login by google account. Then you show this home page. This page have many kinds of component. It's have a sold product component. you can buy any kind of sold product by trype card. 
+- Again you can create a shop on this web. Then you can added your amazin product for sell. you can update and delete your product any time. Also you cna sold your product for sell. 
+- This page have Admin. Admin can control all shop and product.
